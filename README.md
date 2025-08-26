@@ -84,8 +84,6 @@ Contribuições são bem-vindas! Abra um **Pull Request** para melhorias.
 
 ---
 
----
-
 ## Versão
 Este projeto está na versão 1.0.0.
 
