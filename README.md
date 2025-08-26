@@ -84,6 +84,13 @@ Contribuições são bem-vindas! Abra um **Pull Request** para melhorias.
 
 ---
 
+---
+
+## Versão
+Este projeto está na versão 1.0.0.
+
+---
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
